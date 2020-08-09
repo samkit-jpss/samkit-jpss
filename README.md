@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="samkit-jpss | YouTube" width="22px" src="https://www.youtube.com/channel/UCIOHBITVHS89NfMMlOYuTkQ?view_as=subscriber/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="samkit-jpss | YouTube" width="22px" src="https://www.youtube.com/channel/UCIOHBITVHS89NfMMlOYuTkQ?view_as=subscriber/>][youtube]
 [<img align="left" alt="samkit-jpss | LinkedIn" width="22px" src="https://www.linkedin.com/in/samkittech/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="samkit-jpss | Instagram" width="22px" src="https://www.instagram.com/_samkitshah_/?hl=en/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
