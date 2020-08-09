@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi there, I'm Samkit 👋
 
-<!--
-**samkit-jpss/samkit-jpss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Tech enthusiast , ardent about learning new technologies!
+- 🔭 I’m currently working on industry use-case projects  
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🖊️ I'm also a Technical Content writer.
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="samkit-jpss | YouTube" width="22px" src="https://www.youtube.com/channel/UCIOHBITVHS89NfMMlOYuTkQ?view_as=subscriber/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="samkit-jpss | LinkedIn" width="22px" src="https://www.linkedin.com/in/samkittech/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="samkit-jpss | Instagram" width="22px" src="https://www.instagram.com/_samkitshah_/?hl=en/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### My Technologies and Tools:
+
+- Machine Learning , Deep Learning 
+- DevOps : Jenkins , Ansible , Docker , Prometheus, Grafanan and more
+- Cloud Computing : AWS , OpenStack , GCP ,Terraform
+- Mobile App Developement using Cross-Platform : Flutter 
+- Languages : Python , C , C++ , HTML.
+- Operating System : RHEL8 , Windows.
+
+<br />
+<br />
+
+
+[youtube]: https://youtube.com/samkit-jpss
+[instagram]: https://instagram.com/samkit-jpss
+[linkedin]: https://linkedin.com/in/samkit-jpss
