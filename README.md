@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-- Linkedln
-- Instagram
-- Yoututbe
+- Linkedln : https://www.linkedin.com/in/samkittech/
+- Instagram : https://www.instagram.com/_samkitshah_/?hl=en
+- Yoututbe : https://www.youtube.com/channel/UCIOHBITVHS89NfMMlOYuTkQ?view_as=subscriber
 
 <br />
 
@@ -23,9 +23,6 @@
 - Mobile App Developement using Cross-Platform : Flutter 
 - Languages : Python , C , C++ , HTML.
 - Operating System : RHEL8 , Windows.
-
-<br />
-<br />
 
 
 
