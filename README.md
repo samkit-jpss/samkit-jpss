@@ -1,4 +1,4 @@
-### Hi there, I'm Samkit 👋
+# Hi there, I'm Samkit 👋
 
 ## I'm a Tech enthusiast , ardent about learning new technologies!
 - 🔭 I’m currently working on industry use-case projects  
