@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects.
-- 🖊️ I'm also a Technical Content writer.
+- 🖊️ I'm write articles on medium about integration with high-end technologies like ML,DL,DevOps and Cloud Computing  with eacch other.
 
 ### Connect with me:
 
