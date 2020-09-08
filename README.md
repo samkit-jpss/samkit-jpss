@@ -21,8 +21,8 @@
 - DevOps : Jenkins , Ansible , Docker , Prometheus, Grafanan and more
 - Cloud Computing : AWS , OpenStack , GCP ,Terraform
 - Mobile App Developement using Cross-Platform : Flutter 
-- Languages : Python , C , C++ , HTML.
-- Operating System : RHEL8 , Windows.
+- Languages : Python, Java , C , C++ , HTML.
+- Operating System : RHEL8 ,CentOS, Windows.
 
 
 
