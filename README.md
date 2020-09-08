@@ -10,7 +10,6 @@
 ### Connect with me:
 
 - Linkedln : https://www.linkedin.com/in/samkittech/
-- Instagram : https://www.instagram.com/_samkitshah_/?hl=en
 - Medium : https://medium.com/@shahsamkit35
 - Yoututbe : https://www.youtube.com/channel/UCIOHBITVHS89NfMMlOYuTkQ?view_as=subscriber
 
