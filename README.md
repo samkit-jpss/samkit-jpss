@@ -24,5 +24,8 @@
 - Languages : Python, Java , C , C++ , HTML.
 - Operating System : RHEL8 ,CentOS, Windows.
 
+### Currently working on:
+
+- BigData - Hadoop
 
 
