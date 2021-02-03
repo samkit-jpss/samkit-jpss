@@ -11,17 +11,17 @@
 
 - Linkedln : https://www.linkedin.com/in/samkittech/
 - Medium : https://shahtech.medium.com/
-- Yoututbe : https://www.youtube.com/channel/UCIOHBITVHS89NfMMlOYuTkQ?view_as=subscriber
+- Youtube : https://www.youtube.com/channel/UCIOHBITVHS89NfMMlOYuTkQ?view_as=subscriber
 
 <br />
 
 ### My Technologies and Tools:
 
 - Machine Learning , Deep Learning 
-- DevOps : Jenkins , Ansible , Docker , Prometheus, Grafanan and more
+- DevOps : Jenkins ,Kubernetes,Ansible , Docker , Prometheus, Grafanan and more
 - Cloud Computing : AWS , OpenStack , GCP ,Terraform
 - Mobile App Developement using Cross-Platform : Flutter 
-- Languages : Python, Java , C , C++ , HTML.
+- Languages : Python,C,C++
 - Operating System : RHEL8 ,CentOS, Windows.
 
 ### Currently working on:
