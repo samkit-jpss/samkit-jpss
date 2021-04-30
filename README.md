@@ -23,9 +23,6 @@
 - Mobile App Developement using Cross-Platform : Flutter 
 - Languages : Python,C,C++
 - Operating System : RHEL8 ,CentOS, Windows.
-
-### Currently working on:
-
-- BigData - Hadoop
+- BigData - Hadoop-MapReduce,Hive 
 
 
