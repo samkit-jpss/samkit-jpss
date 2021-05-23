@@ -1,5 +1,5 @@
 # Hi there, I'm Samkit 👋
-![](https://komarev.com/ghpvc/?username=samkit-jpss)
+![](https://komarev.com/ghpvc/?username=samkit-jpss&color=green&style=Plastic)
 
 
 ## I'm a Tech enthusiast , ardent about learning new technologies!
