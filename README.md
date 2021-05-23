@@ -1,4 +1,6 @@
 # Hi there, I'm Samkit 👋
+![](https://komarev.com/ghpvc/?username=samkit-jpss)
+
 
 ## I'm a Tech enthusiast , ardent about learning new technologies!
 - 🔭 I’m currently working on industry use-case projects  
