@@ -3,11 +3,9 @@
 
 
 ## I'm a Tech enthusiast , ardent about learning new technologies!
-- 🔭 I’m currently working on industry use-case projects  
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects.
-- 🖊️ I'm write articles on medium about integration with high-end technologies like ML,DL,DevOps and Cloud Computing  with each other.
+- 🖊️ I write articles on medium about integration with high-end technologies like ML,DL,DevOps and Cloud Computing  with each other.
 
 ### Connect with me:
 
@@ -25,6 +23,6 @@
 - Mobile App Developement using Cross-Platform : Flutter 
 - Languages : Python,C,C++
 - Operating System : RHEL8 ,CentOS, Windows.
-- BigData - Hadoop-MapReduce,Hive 
+
 
 
