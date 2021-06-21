@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-- Linkedln : https://www.linkedin.com/in/samkittech/
+- Linkedin : https://www.linkedin.com/in/samkittech/
 - Medium : https://shahtech.medium.com/
 - Youtube : https://www.youtube.com/channel/UCIOHBITVHS89NfMMlOYuTkQ?view_as=subscriber
 
